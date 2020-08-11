@@ -1,0 +1,157 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url(img/bg.jpg) no-repeat;
+  background-size: cover;
+}
+#main_header{
+	width: 100%;
+	
+	height:auto;
+	background:#696969;
+
+	float: left;
+	margin-top: -8px;
+
+}
+#logo{
+	
+	padding-top: 10px;
+	float: left;
+} 
+#ist{
+	color: white;
+	font-size: 45px;
+	font-weight: bold;
+	padding-left: 15px;
+	font-family: cursive;
+}
+#iist{
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+#search{
+	
+	width: 80%;
+	height:auto;
+	float: left;
+	padding:20px;
+	padding-left: 50px;
+	margin: 0 auto;
+
+}
+
+.search_area {
+	width: 60%;
+    height: 50px;
+    background: #fff;
+    border: none;
+    border-radius: 10px;
+    float: left;
+    padding-left: 15px;
+    float: left;
+}
+.search_btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 11px;
+    color: #fff;
+    background: #CD5C5C;
+    margin-left: -100px;
+}
+
+
+#navBar{
+	/**/
+	/*position: fixed;*/
+	/**/
+	width:100%;
+	height:auto;
+	
+	padding-bottom: .4%;
+	padding-top: .4%;
+	
+	
+	background:#2F4F4F;
+	float: left;	
+}
+
+#navBar nav a{
+	margin-left: 40px;
+	color:white;
+	text-decoration: none;
+	padding: 2%;
+	
+}
+#navBar nav a:hover{
+	color:#CD5C5C;
+	font-size:15px;
+	transition: all .5s ease;
+}
+
+/*addProduct*/
+
+.allform {
+    width: 90%;
+    border: 6px solid #2F4F4F;
+    margin-left: 76px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+    background: gray;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+     background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.3); /* Black w/opacity/see-through */
+
+
+}
+
+.margin{
+	margin-top:15px; 
+	
+}
+
+/*.btn{
+	color: #CD5C5C;
+}*/
+.btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 11px;
+    color: #fff;
+    background: #CD5C5C;
+    margin-left: 4px;
+    align-self: center;
+
+}
+#m {
+    margin-left: -147px;
+   
+}
+#m1{
+	margin-left: -114px;
+}#m2{
+	margin-left: -61px;
+}
+#m3 {
+    margin-left: -116px;
+    margin-top: 18px;
+    margin-bottom: 12px;
+}
+#m4 {
+    margin-left: 80px;
+    margin-bottom: 23px;
+}
+#drop {
+    margin-left: -28px;
+    margin-top: 13px;
+}
+
